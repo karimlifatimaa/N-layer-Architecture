@@ -1,0 +1,17 @@
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\bin\Debug\net6.0\Businnes.deps.json
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\bin\Debug\net6.0\Businnes.dll
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\bin\Debug\net6.0\Businnes.pdb
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\bin\Debug\net6.0\Core.dll
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\bin\Debug\net6.0\Data.dll
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\bin\Debug\net6.0\Data.pdb
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\bin\Debug\net6.0\Core.pdb
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\Businnes.csproj.AssemblyReference.cache
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\Businnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\Businnes.AssemblyInfoInputs.cache
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\Businnes.AssemblyInfo.cs
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\Businnes.csproj.CoreCompileInputs.cache
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\Businnes.csproj.Up2Date
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\Businnes.dll
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\refint\Businnes.dll
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\Businnes.pdb
+C:\Users\User1\OneDrive\Desktop\RepositoryPattern\ProductApp\ProductApp\Businnes\obj\Debug\net6.0\ref\Businnes.dll
